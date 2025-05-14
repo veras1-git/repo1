@@ -1,4 +1,2 @@
 print('1')
-
-ghgj
-hjghj
+print(2)
